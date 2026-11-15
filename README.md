@@ -21,7 +21,7 @@ Python 3.13, pandas, NumPy, scikit-learn, matplotlib, seaborn, joblib, Streamlit
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/SpamShield.git
+git clone https://github.com/anndeljo-hub/SpamShield.git
 cd SpamShield
 python -m venv venv
 venv\Scripts\activate          # Windows (macOS/Linux: source venv/bin/activate)
