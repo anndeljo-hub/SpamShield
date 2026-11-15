@@ -2,6 +2,8 @@
 
 An end-to-end machine learning project that classifies SMS messages as **spam** or **ham** (legitimate), with a Streamlit web app that shows a probability and the words that influenced each prediction.
 
+**Live demo:** https://spamshield-74s7q9chfxsmkdptqewvuo.streamlit.app/
+
 ## Problem statement
 Spam SMS wastes time and can be used for phishing. The goal is to build a reproducible, honestly evaluated classifier, covering data checks, preprocessing, model comparison, tuning, testing and deployment.
 
